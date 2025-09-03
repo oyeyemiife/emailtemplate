@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/claimticket.html" },
+    { "source": "/", "destination": "/getready.html" }
+  ]
+}
